@@ -11,6 +11,17 @@ Profesional con más de **12 años de trayectoria multidisciplinaria**. Cuento c
 * **Visualización:** Power BI y nivel experto en Microsoft Excel (Tablas dinámicas y fórmulas complejas).
 * **Gestión Digital:** Manejo experto de Google Drive, Zoom, Meet y entornos de teletrabajo.
 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+* [cite_start]**Análisis de Datos:** Python (Pandas, Numpy), SQL (Consultas masivas) y procesos ETL[cite: 26, 30].
+* [cite_start]**Visualización:** Power BI y nivel experto en Microsoft Excel (Tablas dinámicas y fórmulas complejas)[cite: 29, 30].
+* [cite_start]**Gestión Digital:** Manejo experto de Google Drive, Zoom, Meet y entornos de teletrabajo[cite: 31].
+
 ---
 
 ### 📈 Experiencia y Especialización
