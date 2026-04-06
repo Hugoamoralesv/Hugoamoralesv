@@ -12,7 +12,6 @@ Profesional con más de **12 años de trayectoria multidisciplinaria**. Cuento c
 * **Gestión Digital:** Manejo experto de Google Drive, Zoom, Meet y entornos de teletrabajo.
 
 
-` PYTHON ` ` SQL ` ` PANDAS ` ` POWER BI ` ` EXCEL `
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
