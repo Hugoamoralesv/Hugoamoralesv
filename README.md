@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola! Soy Hugo Alejandro Morales Vera 👋
 
-<!--
-**Hugoamoralesv/Hugoamoralesv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Analista de Datos | Licenciado en Educación**
 
-Here are some ideas to get you started:
+Profesional con más de **12 años de trayectoria multidisciplinaria**. Cuento con una base sólida de 10 años en el sector educativo, evolucionando hacia la consultoría técnica y el análisis de datos estratégicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+* **Análisis de Datos:** Python (Pandas, Numpy), SQL (Consultas masivas) y procesos ETL.
+* **Visualización:** Power BI y nivel experto en Microsoft Excel (Tablas dinámicas y fórmulas complejas).
+* **Gestión Digital:** Manejo experto de Google Drive, Zoom, Meet y entornos de teletrabajo.
+
+---
+
+### 📈 Experiencia y Especialización
+* **Análisis y Gestión Documental:** Especialista en extracción, limpieza y validación de información crítica (Bootcamp de 520 hrs).
+* **Consultoría Técnica:** Elaboración de informes técnicos y asesoría en gestión de herramientas de evaluación en línea.
+* **Calidad de Datos:** Experiencia reciente en banca y validación de evidencias digitales (UFRO), asegurando precisión bajo plazos exigentes.
+
+---
+
+### 📫 Contacto y Redes
+* 📍 **Ubicación:** Temuco, Chile.
+* 💼 **LinkedIn:** [in/hugo-alejando-morales-vera](https://www.linkedin.com/in/hugo-alejando-morales-vera/).
+* 📧 **Email:** hugoamoralesv@gmail.com
+
+---
+
+> *"Especialista en transformar datos en decisiones estratégicas con alta precisión y enfoque en resultados."*
