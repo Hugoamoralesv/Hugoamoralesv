@@ -12,11 +12,9 @@ Profesional con más de **12 años de trayectoria multidisciplinaria**. Cuento c
 * **Gestión Digital:** Manejo experto de Google Drive, Zoom, Meet y entornos de teletrabajo.
 
 
-<a href="javascript:void(0)"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a>
-<a href="javascript:void(0)"><img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
-<a href="javascript:void(0)"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
-<a href="javascript:void(0)"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI" /></a>
-<a href="javascript:void(0)"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" /></a>
+| | | | | |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="100"> | <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" width="80"> | <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" width="100"> | <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" width="100"> | <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="110"> |
 
 ---
 
