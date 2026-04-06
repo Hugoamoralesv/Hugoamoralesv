@@ -13,7 +13,13 @@ Profesional con más de **12 años de trayectoria multidisciplinaria**. Cuento c
 
 
 ` PYTHON ` ` SQL ` ` PANDAS ` ` POWER BI ` ` EXCEL `
-
+<div style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</div>
 ---
 
 ### 📈 Experiencia y Especialización
