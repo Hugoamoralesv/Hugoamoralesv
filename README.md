@@ -18,6 +18,7 @@ Profesional con más de **12 años de trayectoria multidisciplinaria**. Cuento c
 [![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/es-cl/microsoft-365/excel)
 </div>
+
 ---
 
 ### 📈 Experiencia y Especialización
